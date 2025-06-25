@@ -18,7 +18,3 @@
 console.log(typeof("vikas"))
 console.log(typeof(null))
 console.log(typeof(undefined))
-
-
-
-
